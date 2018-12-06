@@ -35,7 +35,7 @@ Starting point forked from <a href="https://github.com/tommy351/Octopress-Theme-
 
 <h2>Conditions</h2>
 
-<p>The only condition to use this theme for your octopress blog is that you have to set a different highlight color than the ones mentioned <a href="https://github.com/shashankmehta/greyshade/wiki/Sites-using-Greyshade">here</a>. When you have chosen a highlight color, please add it to the <a href="https://github.com/shashankmehta/greyshade/wiki/Sites-using-Greyshade">wiki</a> so that no one else uses it.</p>
+<p>The only condition to use this theme for your octopress blog is that you have to set a different highlight color than the ones mentioned <a href="https://github.com/shashankmehta/test/wiki/Sites-using-Greyshade">here</a>. When you have chosen a highlight color, please add it to the <a href="https://github.com/shashankmehta/test/wiki/Sites-using-Greyshade">wiki</a> so that no one else uses it.</p>
 
 <p>Highlight color: This color is used on a:hover, blockquotes etc. I&#8217;ll be using it in more places so that blogs with different highlight colors look slightly different and maintain a bit of their uniqueness.</p>
 

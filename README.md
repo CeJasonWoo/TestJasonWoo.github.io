@@ -3,13 +3,13 @@
 Greyshade is a minimal, responsive theme for Octopress.
 Starting point forked from [Slash](https://github.com/tommy351/Octopress-Theme-Slash)  
 
-For demo, check out websites from the [wiki](https://github.com/shashankmehta/greyshade/wiki/Sites-using-Greyshade/)
+For demo, check out websites from the [wiki](https://github.com/shashankmehta/test/wiki/Sites-using-Greyshade/)
 
-![mobile view](https://dl.dropbox.com/u/6396581/greyshade/1.png)
+![mobile view](https://dl.dropbox.com/u/6396581/test/1.png)
 
-![mobile view](https://dl.dropbox.com/u/6396581/greyshade/3.png)
+![mobile view](https://dl.dropbox.com/u/6396581/test/3.png)
 
-![Desktop view](https://dl.dropbox.com/u/6396581/greyshade/2.png)
+![Desktop view](https://dl.dropbox.com/u/6396581/test/2.png)
 
 ##Features
 
@@ -20,7 +20,7 @@ For demo, check out websites from the [wiki](https://github.com/shashankmehta/gr
 
 ##Conditions 
 
-The only condition to use this theme for your octopress blog is that you have to set a different highlight color than the ones mentioned [here](https://github.com/shashankmehta/greyshade/wiki/Sites-using-Greyshade). When you have chosen a highlight color, please add it to the [wiki](https://github.com/shashankmehta/greyshade/wiki/Sites-using-Greyshade) so that no one else uses it.
+The only condition to use this theme for your octopress blog is that you have to set a different highlight color than the ones mentioned [here](https://github.com/shashankmehta/test/wiki/Sites-using-Greyshade). When you have chosen a highlight color, please add it to the [wiki](https://github.com/shashankmehta/test/wiki/Sites-using-Greyshade) so that no one else uses it.
 
 Highlight color: This color is used on a:hover, blockquotes etc. I'll be using it in more places so that blogs with different highlight colors look slightly different and maintain a bit of their uniqueness. 
 
