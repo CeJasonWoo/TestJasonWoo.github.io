@@ -1,0 +1,6 @@
+#deploy:
+#  type: git
+#  repository: url
+#  branch: blog
+
+remote_theme: origin/gh-pages
